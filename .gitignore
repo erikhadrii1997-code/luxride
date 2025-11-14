@@ -2,9 +2,7 @@
 node_modules/
 package-lock.json
 
-# Capacitor
-ios/
-android/
+# Capacitor build artifacts (keep the folders, ignore artifacts)
 .capacitor/
 
 # Data files (local storage)
