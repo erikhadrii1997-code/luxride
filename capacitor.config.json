@@ -1,7 +1,7 @@
 {
   "appId": "com.luxride.driver",
   "appName": "LuxRide Driver",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https",
     "iosScheme": "https",
